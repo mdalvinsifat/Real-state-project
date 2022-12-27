@@ -1,0 +1,26 @@
+.total{
+   margin-left: 300px;
+}
+.button-color{
+    margin-left: 200px;
+    padding-left:20px;
+}
+.bangladesh h1 ,h2{
+    color: #3e5ff4;
+}
+.card-image img{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0px auto;
+}
+.card-image{
+    padding: 10px;
+    border-radius: 20px;
+}
+.card-shadow{
+    box-shadow: 3px 3px 13px #ffffff,-3px -3px 13px #5f5959;
+}
+.margin{
+    margin-left: 40%;
+}
